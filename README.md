@@ -1,5 +1,7 @@
 # tableau-challenge
 
+All data can be found here: https://www.citibikenyc.com/system-data
+
 ## Analysis and Investigation Results
 
 ### Jersey City Comparison of Year 2019 and 2020 Dashboard
